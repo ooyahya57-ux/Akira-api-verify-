@@ -1,1 +1,4 @@
-Flask==3.1.1\npython-telegram-bot==22.1\npython-dotenv==1.1.1\n
+Flask==3.1.1
+python-telegram-bot==22.1
+gunicorn==23.0.0
+python-dotenv==1.1.0
